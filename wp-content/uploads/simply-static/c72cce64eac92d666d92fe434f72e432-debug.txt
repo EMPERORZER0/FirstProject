@@ -8312,3 +8312,5 @@
 [2024-06-22 14:38:14] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
 [2024-06-22 14:38:14] [class-ss-archive-creation-job.php:197] Completing the job
 [2024-06-22 14:38:14] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:03:49
+[2024-06-22 14:42:50] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/FirstProject
+[2024-06-22 14:42:51] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/FirstProject
